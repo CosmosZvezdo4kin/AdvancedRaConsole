@@ -2,7 +2,7 @@
 More handy and customizable list of players in the RA-Panel (SCP:SL Plugin)
 
 ## How to install plugin?
-Put BetterRaList.dll under the release tab into %appdata%\EXILED\Plugins (Windows) or .config/EXILED/Plugins (Linux) folder.
+Put **BetterRaList.dll** under the release tab into `%appdata%\EXILED\Plugins` (Windows) or `.config/EXILED/Plugins` (Linux) folder.
 
 ## Config
 | Field | Description | Default Value |
@@ -28,3 +28,6 @@ BetterRaList:
     # Field to drop the selection (leave blank to disable)
     reset_field: Сбросить Выделение
 ```
+
+## Example picture
+[example_image](https://cdn.discordapp.com/attachments/962743978988564590/980913930308304927/unknown.png)
