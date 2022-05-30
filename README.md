@@ -22,11 +22,11 @@ BetterRaList:
   # Enable sorting players by increasing their PlayerId
     sort_list_by_player_id: true
     # Overwatch text format
-    overwatch_format: '[ХУЙ]'
+    overwatch_format: '<link=RA_OverwatchEnabled><color=white>[</color><color=#03f8fc>OV</color><color=white>]</color></link> '
     # PermissionGroup text format. {0} - group color. {1} - group name (leave it blank to disable)
-    permission_group_format: ''
+    permission_group_format: '<link=RA_Admin>[<color=#{0}>{1}.</color>]</link> '
     # Field to drop the selection (leave blank to disable)
-    reset_field: Сбросить Выделение
+    reset_field: Reset Selection
 ```
 
 ## Example picture
