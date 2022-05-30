@@ -1,5 +1,5 @@
 # BetterRaList
-More handy and customizable list of players in the RA-Panel (SCP:SL Plugin)
+More handy and customizable list of players in the RA-Panel (Exiled Plugin)
 
 ## How to install plugin?
 Put **BetterRaList.dll** under the release tab into `%appdata%\EXILED\Plugins` (Windows) or `.config/EXILED/Plugins` (Linux) folder.
