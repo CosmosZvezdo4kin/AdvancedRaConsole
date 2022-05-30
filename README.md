@@ -9,7 +9,7 @@ Put BetterRaList.dll under the release tab into %appdata%\EXILED\Plugins (Window
 | ------------- | ------------- | ------------- |
 | `SortListByPlayerId` | Enable sorting players by increasing their PlayerId | `true` |
 | `OverwatchFormat`  | Overwatch text format | `<link=RA_OverwatchEnabled><color=white>[</color><color=#03f8fc>OV</color><color=white>]</color></link> ` |
-| `PermissionGroupFormat` | "PermissionGroup text format. {0} - group color. {1} - group name (leave it blank to disable) | `<link=RA_Admin>[<color=#{0}>{1}.</color>]</link> ` |
+| `PermissionGroupFormat` | PermissionGroup text format. {0} - group color. {1} - group name (leave it blank to disable) | `<link=RA_Admin>[<color=#{0}>{1}.</color>]</link> ` |
 | `ResetField`  | Field to drop the selection (leave blank to disable) | `Reset Selection` |
 
 ## Default Configs
