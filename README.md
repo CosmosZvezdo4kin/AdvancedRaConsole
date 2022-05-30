@@ -30,4 +30,4 @@ BetterRaList:
 ```
 
 ## Example picture
-[example_image](https://cdn.discordapp.com/attachments/962743978988564590/980913930308304927/unknown.png)
+![example_image](https://cdn.discordapp.com/attachments/962743978988564590/980913930308304927/unknown.png)
